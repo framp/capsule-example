@@ -15,7 +15,6 @@ Open `http://localhost:3000` and enjoy!
 
 Documentation is still on its way but I feel like a little explanation of the library is something I must provide.
 
-This is the main flow.
 ##SERVER:
 ###Initialize an empty world
   A world is a special data structure which consists of:
