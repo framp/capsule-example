@@ -1,0 +1,17 @@
+{
+	"name": "capsule-example",
+	"version": "0.0.1",
+	"description": "An example for Capsule",
+	"keywords": ["game", "real-time"],
+	"repository": "git://github.com/framp/capsule-example.git",
+	"author": "Federico Rampazzo <frampone@gmail.com> (http://)",
+	"dependencies": {
+        "connect": "*",
+        "socket.io": "*",
+        "capsule": "git://github.com/framp/capsule.git"
+	},
+	"start": "node server.js",
+	"devDependencies": {
+		"browserify": "*"
+	}
+}
