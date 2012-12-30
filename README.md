@@ -63,8 +63,8 @@ this.worldLifetime = options.worldLifetime || 2000;
 this.userDelay = options.userDelay || 200; 
 //Print debug information 
 this.debug = options.debug || 0; 
-//Hooks are function which are executed in some key points
 
+//Hooks are function which are executed in some key points
 this.hooks = options.hooks || {
   //Every inputInterval keys is snapshotted and saved, 
   //Every updateInterval those snapshots are executed locally and sent
